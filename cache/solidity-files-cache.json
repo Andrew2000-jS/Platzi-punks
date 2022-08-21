@@ -37,8 +37,8 @@
       ]
     },
     "C:\\Users\\andre\\OneDrive\\Escritorio\\Dev\\platzi-punk\\contracts\\PlatziPunks.sol": {
-      "lastModificationDate": 1661076075052,
-      "contentHash": "c8856ae2166b4822ade9889e6503a7d3",
+      "lastModificationDate": 1661078871360,
+      "contentHash": "ab4b7b49c042f92722aecd87540ec728",
       "sourceName": "contracts/PlatziPunks.sol",
       "solcConfig": {
         "version": "0.8.9",
@@ -67,6 +67,7 @@
         "@openzeppelin/contracts/token/ERC721/ERC721.sol",
         "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol",
         "@openzeppelin/contracts/utils/Counters.sol",
+        "@openzeppelin/contracts/utils/Strings.sol",
         "./Base64.sol",
         "./PlatziPunksDNA.sol"
       ],
